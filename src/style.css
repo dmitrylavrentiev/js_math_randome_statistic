@@ -9,6 +9,7 @@
     margin-right: 5px;
     background-color: aqua;
     position: relative;
+    min-width: 20px;
 }
 
 .number {
