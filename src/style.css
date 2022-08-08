@@ -1,0 +1,18 @@
+.row {
+    display: flex;
+    height: 300px;
+    align-items: flex-end;
+}
+
+.col {
+    
+    margin-right: 5px;
+    background-color: aqua;
+    position: relative;
+}
+
+.number {
+    position: absolute;
+    bottom: -16px;
+    left: 2px;
+}
